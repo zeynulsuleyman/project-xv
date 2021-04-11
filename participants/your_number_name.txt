@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  hello i did not write here
+=======
+hello write a meaning sentences
+>>>>>>> developper-c8151-Hamid
