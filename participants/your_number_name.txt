@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
 added new line
 benjo jacob, C8399-Benjo hesabıdır
->>>>>>> developer-benjo-C8399
+
+
+ hello i did not write here
+> developper-c8151-Hamid
+
