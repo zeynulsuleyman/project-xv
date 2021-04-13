@@ -1,1 +1,3 @@
 This is another line added via main branch.
+Hello everyone. This is GitHup Practice.
+>>>>>>> developer-C8316-Suleyman
